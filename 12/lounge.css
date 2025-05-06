@@ -1,0 +1,29 @@
+h1, h2{
+  color: gray;
+}
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  border-bottom: 1px solid black;
+}
+h2{
+  font-size: 2.5rem;
+}
+p{
+  font-size: 1.5rem;
+  color: maroon;
+}
+body{
+  font-family: Arial;
+}
+html{
+  font-size: 23px;
+}
+
+body{
+	color: rgb(87, 118, 212);
+	color: rgb(241, 238, 3);
+	color: #f02188cc;
+	color: rgba(39,177,182,0.8);
+	color: #0fca3dcc;
+}
